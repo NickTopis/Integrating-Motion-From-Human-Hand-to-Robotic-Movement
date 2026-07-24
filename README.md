@@ -138,12 +138,4 @@ Supervisor:
 
 **Georgios Adam**
 
----
 
-## 📜 License
-
-Copyright © 2024 Nikolaos Topis. All Rights Reserved.
-
-This repository is published for educational and portfolio purposes only.
-
-See the [LICENSE](LICENSE) file for additional information.
