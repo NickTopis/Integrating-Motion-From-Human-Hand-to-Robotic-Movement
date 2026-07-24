@@ -22,6 +22,9 @@ The project combines mechanical engineering, embedded systems, electronics, and 
 
 From the initial concept and CAD design to the final assembly, programming, and testing, this project explores the practical application of robotics principles through the construction of a fully operational robotic hand.
 
+<p align="center">
+  <img src="Images/8.jpg" width="45%">
+</p>
 ---
 
 ## Project Objectives
@@ -122,7 +125,7 @@ The concepts presented in this project are applicable to:
 
 The complete Bachelor's Thesis is available in this repository.
 
-📄 **Thesis.pdf**
+📄 [Thesis.pdf](Thesis.pdf)
 
 ---
 
