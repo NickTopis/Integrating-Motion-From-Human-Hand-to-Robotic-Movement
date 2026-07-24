@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Integrating Motion: From Human Hand to Robotic Movement
+# Integrating Motion: From Human Hand to Robotic Movement
 
 ### Bachelor's Thesis
 
@@ -18,33 +18,31 @@ Design • Robotics • Embedded Systems • 3D Printing
 ![3D Printing](https://img.shields.io/badge/3D-Printing-success)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
+---
+
+*Design and implementation of a 3D-printed robotic hand prototype capable of reproducing human hand movements using Arduino and servo motors.*
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="Images/8.jpg" width="800">
-</p>
+# Table of Contents
+
+- [Overview](#overview)
+- [Project Highlights](#project-highlights)
+- [Project Objectives](#project-objectives)
+- [Technologies](#technologies)
+- [Robotic Hand Architecture](#robotic-hand-architecture)
+- [Development Process](#development-process)
+- [Applications](#applications)
+- [Project Gallery](#project-gallery)
+- [Thesis](#thesis)
+- [Author](#author)
+- [License](#license)
 
 ---
 
-# 📑 Table of Contents
-
-- [Overview](#-overview)
-- [Project Highlights](#-project-highlights)
-- [Project Objectives](#-project-objectives)
-- [Technologies](#-technologies)
-- [Robotic Hand Architecture](#-robotic-hand-architecture)
-- [Development Process](#-development-process)
-- [Applications](#-applications)
-- [Project Gallery](#-project-gallery)
-- [Thesis](#-thesis)
-- [Author](#-author)
-- [License](#-license)
-
----
-
-# 📖 Overview
+# Overview
 
 This repository contains my Bachelor's Thesis focused on the design, development, and implementation of a robotic hand capable of reproducing predefined human hand movements.
 
@@ -52,32 +50,35 @@ The project combines mechanical engineering, embedded systems, electronics, and 
 
 From the initial concept and CAD design to the final assembly, programming, and testing, this project explores the practical application of robotics principles through the construction of a fully operational robotic hand.
 
----
-
-# 🚀 Project Highlights
-
-- 🤖 Designed and built a functional robotic hand prototype
-- 🖨️ Manufactured custom components using 3D printing
-- ⚙️ Arduino-based embedded control
-- ✋ Five independently actuated robotic fingers
-- 🎯 Tendon-driven finger mechanism
-- 🛠️ CAD modeling using Blender
-- 📚 Bachelor's Thesis at the University of Thessaly
+<p align="center">
+  <img src="Images/8.jpg" width="700" alt="Robotic Hand Prototype">
+</p>
 
 ---
 
-# 🎯 Project Objectives
+# Project Highlights
+
+- Designed and developed a functional robotic hand prototype
+- Manufactured custom components using 3D printing
+- Implemented an Arduino Uno embedded control system
+- Developed a tendon-driven finger actuation mechanism
+- Designed all mechanical parts using Blender
+- Demonstrated the complete engineering workflow from concept to prototype
+
+---
+
+# Project Objectives
 
 - Design a functional robotic hand
 - Develop a lightweight mechanical structure
 - Manufacture custom components using 3D printing
 - Implement embedded control using Arduino
 - Reproduce human hand movements through servo actuation
-- Evaluate the functionality of the robotic system
+- Evaluate the overall performance of the robotic system
 
 ---
 
-# 🛠️ Technologies
+# Technologies
 
 ## Hardware
 
@@ -96,7 +97,7 @@ From the initial concept and CAD design to the final assembly, programming, and 
 
 ---
 
-# 🤖 Robotic Hand Architecture
+# Robotic Hand Architecture
 
 The robotic hand consists of:
 
@@ -105,13 +106,13 @@ The robotic hand consists of:
 - Five articulated fingers
 - Fixed support base
 
-Each finger is independently actuated by an MG996R servo motor through a tendon-based transmission mechanism, enabling smooth and repeatable movement.
+Each finger is independently actuated by an MG996R servo motor through a tendon-driven mechanism, enabling smooth and repeatable movement.
 
-The design emphasizes simplicity, modularity, and ease of fabrication.
+The design focuses on modularity, ease of fabrication, and mechanical simplicity.
 
 ---
 
-# 🔨 Development Process
+# Development Process
 
 1. Robotics Research
 2. Mechanical Design
@@ -126,9 +127,9 @@ The design emphasizes simplicity, modularity, and ease of fabrication.
 
 ---
 
-# 🌍 Applications
+# Applications
 
-- Human-Robot Interaction
+- Human–Robot Interaction
 - Educational Robotics
 - Embedded Systems
 - Robotic Manipulators
@@ -137,13 +138,13 @@ The design emphasizes simplicity, modularity, and ease of fabrication.
 
 ---
 
-# 📷 Project Gallery
+# Project Gallery
 
-### Mechanical Design
+## CAD Design
 
 <p align="center">
-<img src="Images/0.jpg" width="45%">
-<img src="Images/1.jpg" width="45%">
+<img src="Images/0.png" width="45%" alt="CAD Model">
+<img src="Images/1.jpg" width="45%" alt="Mechanical Design">
 </p>
 
 <p align="center">
@@ -156,6 +157,8 @@ The design emphasizes simplicity, modularity, and ease of fabrication.
 <img src="Images/5.jpg" width="45%">
 </p>
 
+## Prototype Development
+
 <p align="center">
 <img src="Images/6.jpg" width="45%">
 <img src="Images/7.jpg" width="45%">
@@ -166,23 +169,23 @@ The design emphasizes simplicity, modularity, and ease of fabrication.
 <img src="Images/9.jpg" width="45%">
 </p>
 
-### Electronic Circuit
+## Final Electronic Circuit
 
 <p align="center">
-<img src="Images/Final%20Circuit.png" width="800">
+<img src="Images/Final%20Circuit.png" width="750" alt="Electronic Circuit">
 </p>
 
 ---
 
-# 📄 Thesis
+# Thesis
 
 The complete Bachelor's Thesis is available in this repository.
 
-📘 **[Read the Thesis](Thesis.pdf)**
+**[Read the Thesis](Thesis.pdf)**
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Nikolaos Topis**
 
@@ -194,10 +197,10 @@ University of Thessaly
 
 ---
 
-# 📜 License
+# License
 
 Copyright © Nikolaos Topis. All Rights Reserved.
 
-This repository is published for educational and portfolio purposes.
+This repository is published for educational, research, and portfolio purposes.
 
-See the **LICENSE** file for details.
+For complete licensing information, please refer to the **[LICENSE](LICENSE)** file.
