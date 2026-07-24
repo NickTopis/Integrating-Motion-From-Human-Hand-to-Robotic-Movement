@@ -144,6 +144,11 @@ The design focuses on modularity, ease of fabrication, and mechanical simplicity
 
 <p align="center">
 <img src="Images/0.png" width="45%" alt="CAD Model">
+</p>
+
+## Prototype Development
+
+<p align="center">
 <img src="Images/1.jpg" width="45%" alt="Mechanical Design">
 </p>
 
@@ -156,8 +161,6 @@ The design focuses on modularity, ease of fabrication, and mechanical simplicity
 <img src="Images/4.jpg" width="45%">
 <img src="Images/5.jpg" width="45%">
 </p>
-
-## Prototype Development
 
 <p align="center">
 <img src="Images/6.jpg" width="45%">
