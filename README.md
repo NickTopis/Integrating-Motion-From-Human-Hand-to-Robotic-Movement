@@ -142,8 +142,8 @@ Supervisor:
 
 ## 📜 License
 
-This repository is intended for educational and portfolio purposes.
+Copyright © 2024 Nikolaos Topis. All Rights Reserved.
 
-The contents of this repository are protected by copyright.
+This repository is published for educational and portfolio purposes only.
 
-See the **LICENSE** file for details.
+See the [LICENSE](LICENSE) file for additional information.
