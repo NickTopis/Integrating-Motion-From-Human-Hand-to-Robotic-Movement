@@ -25,7 +25,6 @@ From the initial concept and CAD design to the final assembly, programming, and 
 <p align="center">
   <img src="Images/8.jpg" width="45%">
 </p>
----
 
 ## Project Objectives
 
