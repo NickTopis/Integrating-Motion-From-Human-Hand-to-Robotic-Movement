@@ -184,7 +184,7 @@ The design focuses on modularity, ease of fabrication, and mechanical simplicity
 
 The complete Bachelor's Thesis is available in this repository.
 
-**[Read the Thesis](Thesis.pdf)**
+**[Read the Thesis](Integrating%20Motion%20-%20Bachelor's%20Thesis.pdf)**
 
 ---
 
