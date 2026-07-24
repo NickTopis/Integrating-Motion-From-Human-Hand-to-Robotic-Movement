@@ -156,8 +156,6 @@ The design emphasizes simplicity, modularity, and ease of fabrication.
 <img src="Images/5.jpg" width="45%">
 </p>
 
-### Prototype Development
-
 <p align="center">
 <img src="Images/6.jpg" width="45%">
 <img src="Images/7.jpg" width="45%">
