@@ -14,7 +14,7 @@ Department of Digital Systems
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains my Bachelor's Thesis, which focuses on the design, development, and implementation of a robotic hand capable of reproducing predefined human hand movements.
 
@@ -24,7 +24,7 @@ From the initial concept and CAD design to the final assembly, programming, and 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The objectives of this thesis were to:
 
@@ -37,7 +37,7 @@ The objectives of this thesis were to:
 
 ---
 
-## ⚙️ Technologies
+## Technologies
 
 ### Hardware
 
@@ -56,7 +56,7 @@ The objectives of this thesis were to:
 
 ---
 
-## 🤖 Robotic Hand Architecture
+## Robotic Hand Architecture
 
 The robotic hand consists of:
 
@@ -71,7 +71,7 @@ The prototype was designed with simplicity, modularity, and ease of fabrication 
 
 ---
 
-## 🔨 Development Process
+## Development Process
 
 The implementation followed the complete engineering workflow:
 
@@ -88,7 +88,7 @@ The implementation followed the complete engineering workflow:
 
 ---
 
-## 📚 Thesis Contents
+## Thesis Contents
 
 The thesis covers:
 
@@ -105,7 +105,7 @@ The thesis covers:
 
 ---
 
-## 🚀 Applications
+## Applications
 
 The concepts presented in this project are applicable to:
 
@@ -118,7 +118,7 @@ The concepts presented in this project are applicable to:
 
 ---
 
-## 📄 Thesis
+## Thesis
 
 The complete Bachelor's Thesis is available in this repository.
 
@@ -126,7 +126,7 @@ The complete Bachelor's Thesis is available in this repository.
 
 ---
 
-## 👨‍🎓 Author
+## Author
 
 **Nikolaos Topis**
 
@@ -138,38 +138,37 @@ Supervisor:
 
 **Georgios Adam**
 
-## 📷 Project Gallery
+## Project Gallery
 
 ### CAD Design & Development
 
 <p align="center">
-  <img src="0.jpg" width="45%">
-  <img src="1.jpg" width="45%">
+  <img src="Images/0.jpg" width="45%">
+  <img src="Images/1.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="2.jpg" width="45%">
-  <img src="3.jpg" width="45%">
+  <img src="Images/2.jpg" width="45%">
+  <img src="Images/3.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="4.jpg" width="45%">
-  <img src="5.jpg" width="45%">
+  <img src="Images/4.jpg" width="45%">
+  <img src="Images/5.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="6.jpg" width="45%">
-  <img src="7.jpg" width="45%">
+  <img src="Images/6.jpg" width="45%">
+  <img src="Images/7.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="8.jpg" width="45%">
-  <img src="9.jpg" width="45%">
+  <img src="Images/8.jpg" width="45%">
+  <img src="Images/9.jpg" width="45%">
 </p>
 
 ### Final Electronic Circuit
 
 <p align="center">
-  <img src="Final%20Circuit.png" width="700">
+  <img src="Images/Final%20Circuit.png" width="700">
 </p>
-
